@@ -1,0 +1,9 @@
+1. Log In:
+
+Use Account Data available in 2 AccountStaff.txt/AccountBoss.txt databases. Depending on the role of the Login, the database is selected.
+
+2. Sign In:
+
+* For Staff: When registering a user who does not use the email address ending (e.g. @gmail.com, @edu.com, ...), the user only needs to enter the Username to register, the program will automatically add the @staff.com.vn ending so that the program distinguishes the user's role when Login.
+
+* For Boss: Log In only because to ensure data security, Boss will directly use the data in the Database (AccountBoss.txt)
